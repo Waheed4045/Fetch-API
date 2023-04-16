@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  /*   background: darkcyan !important; */
+  /*   background-image: url("https://wallpaperaccess.com/full/796851.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: contain; */
+  }
+  
+  .jumbotron {
+    color: whitesmoke;
+    background-image: url("https://d33wubrfki0l68.cloudfront.net/590398ae9a27fec27fdac9450c0738d409cc84ff/c6bb7/static/2b5773beca118974180168ada813ba7b/an-introduction-to-low-level-programming.jpg");
+    background-attachment: fixed;
+  /*   background-size: cover; */
+    background-size: contain;
+  /*   background-size: 100% 100%; */
+  }
+  
+  /* style="background-image: url('https://wallpaperaccess.com/full/796857.jpg');" */
+  /* style="background-image: url('https://wallpaperaccess.com/full/796851.png');" */
+  
+  /*
+  
+  https://wallpaperaccess.com/full/796857.jpg
+  https://wallpaperaccess.com/full/796851.png
+  
+  */
